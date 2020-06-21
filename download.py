@@ -1,23 +1,4 @@
-download_fsgan_models.py
 
-Type
-Text
-Size
-4 KB (4,003 bytes)
-Storage used
-0 bytes
-Location
-scripts
-Owner
-Yuval Nirkin
-Modified
-Apr 19, 2020 by Yuval Nirkin
-Opened
-12:49 AM by me
-Created
-Apr 19, 2020
-No description
-Viewers can download
 """ Utility script for downloading the FSGAN models.
 
 This script should be placed in the root directory of the FSGAN repository.
